@@ -1,0 +1,14 @@
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\Rock-Paper-Scissors\Rock-Paper-Scissors\bin\Debug\net6.0\Rock-Paper-Scissors.exe
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\Rock-Paper-Scissors\Rock-Paper-Scissors\bin\Debug\net6.0\Rock-Paper-Scissors.deps.json
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\Rock-Paper-Scissors\Rock-Paper-Scissors\bin\Debug\net6.0\Rock-Paper-Scissors.runtimeconfig.json
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\Rock-Paper-Scissors\Rock-Paper-Scissors\bin\Debug\net6.0\Rock-Paper-Scissors.dll
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\Rock-Paper-Scissors\Rock-Paper-Scissors\bin\Debug\net6.0\Rock-Paper-Scissors.pdb
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\Rock-Paper-Scissors\Rock-Paper-Scissors\obj\Debug\net6.0\Rock-Paper-Scissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\Rock-Paper-Scissors\Rock-Paper-Scissors\obj\Debug\net6.0\Rock-Paper-Scissors.AssemblyInfoInputs.cache
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\Rock-Paper-Scissors\Rock-Paper-Scissors\obj\Debug\net6.0\Rock-Paper-Scissors.AssemblyInfo.cs
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\Rock-Paper-Scissors\Rock-Paper-Scissors\obj\Debug\net6.0\Rock-Paper-Scissors.csproj.CoreCompileInputs.cache
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\Rock-Paper-Scissors\Rock-Paper-Scissors\obj\Debug\net6.0\Rock-Paper-Scissors.dll
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\Rock-Paper-Scissors\Rock-Paper-Scissors\obj\Debug\net6.0\refint\Rock-Paper-Scissors.dll
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\Rock-Paper-Scissors\Rock-Paper-Scissors\obj\Debug\net6.0\Rock-Paper-Scissors.pdb
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\Rock-Paper-Scissors\Rock-Paper-Scissors\obj\Debug\net6.0\Rock-Paper-Scissors.genruntimeconfig.cache
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\Rock-Paper-Scissors\Rock-Paper-Scissors\obj\Debug\net6.0\ref\Rock-Paper-Scissors.dll
